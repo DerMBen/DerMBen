@@ -1,0 +1,113 @@
+/* ==========
+ Import Font
+========== */
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,700;1,400;1,700&family=IBM+Plex+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+/* ===
+ Root
+=== */
+:root {
+	--clr-brand: #ff6f00;
+	--clr-brand-ctr: #fff;
+	--clr-bg: #f5f5f5;
+	--clr-cnt: #151515;
+	--clr-hl: #ff0;
+	color: var(--clr-cnt);
+	background-color: var(--clr-bg);
+}
+
+/* ===
+ Body
+=== */
+body {
+	background-color: var(--clr-bg);
+	color: var(--clr-cnt);
+	font-family: 'IBM Plex Sans', sans-serif;
+}
+
+/* ===
+ Code
+=== */
+code,
+pre {
+	tab-size: 2ch;
+	font-family: 'IBM Plex Mono', monospace;
+}
+code.unix-shell::before {
+	content: '$ ';
+	opacity: 0.7;
+}
+code.win-cmd::before {
+	content: '> ';
+	opacity: 0.7;
+}
+
+/* ====
+ Table
+==== */
+td,
+th {
+	border-color: currentColor !important;
+}
+th {
+	background-color: #959595;
+	font-weight: 400;
+}
+
+/* ======
+ Heading
+====== */
+h1 {
+	color: var(--clr-brand);
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: 700;
+}
+
+/* ======
+ Various
+====== */
+::selection {
+	background-color: var(--clr-brand)!important;
+	color: var(--clr-brand-ctr)!important;
+}
+hr {
+	color: var(--clr-cnt);
+	border-color: var(--clr-cnt);
+}
+.color-rect {
+	display: inline-block;
+	width: 3ch;
+	height: 1em;
+	background-color: var(--clr);
+}
+.page {
+	min-height: 100vh;
+}
+
+/* =============
+ custom classes
+============= */
+/*highlight*/
+.hl {
+	background-color: var(--clr-hl);
+}
+/*underline*/
+.ul {
+	text-decoration: underline;
+}
+/* doc-info */
+.right {
+	display: block;
+	float: right;
+	margin-left: 2em;
+	font-family: 'IBM Plex Mono', monospace;
+	background-color: var(--clr-bg) !important;
+	color: var(--clr-cnt);
+	outline: solid 0.1em currentcolor;
+}
