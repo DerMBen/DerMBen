@@ -1,6 +1,6 @@
 .DS_Store
-.gitignore
-boilerplate/*
+._*
+boilerplates/
 
 # boilerplates/snippets
 # boilerplates/snippets.md
