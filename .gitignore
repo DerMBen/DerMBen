@@ -1,5 +1,7 @@
-/snippets.md
-/snippets
 .DS_Store
-/assets/css/ubuntuusers-print.css
-/markdown_boilerplate.html
+.gitignore
+/boilerplate/*
+# boilerplates/snippets
+# boilerplates/snippets.md
+# boilerplates/markdown_boilerplate.html
+# boilerplates/assets/css/ubuntuusers-print.css
