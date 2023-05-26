@@ -1,5 +1,7 @@
 # DerMBen
 
+## About me
+
 Hi, I'm Ben!
 
 - 🎨 I'm a graphics design student from austria
@@ -7,6 +9,8 @@ Hi, I'm Ben!
 - 🧠 I'm currently trying to learn PHP and JavaScript
 - ✍ I'm also trying to find a markup languages I like, to write documents with.
   - ideally, I could also use it to write content for InDesign
+
+## Repositories
 
 The [DerMBen/DerMBen](https://github.com/DerMBen/DerMBen) repo is for my profile-readme and things specific to me, such as my boilerplates for HTML, CSS, etc.
 
