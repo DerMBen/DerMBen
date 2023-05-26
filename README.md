@@ -12,7 +12,9 @@ Hi, I'm Ben!
 
 ## Repositories
 
-The [DerMBen/DerMBen](https://github.com/DerMBen/DerMBen) repo is for my profile-readme and things specific to me, such as my boilerplates for HTML, CSS, etc.
+**The [DerMBen/DerMBen](https://github.com/DerMBen/DerMBen) repo** is for things specific to me, such as:
+- my profile-readme
+- my boilerplates for HTML, CSS, etc.
 
 <!--
 Emoji options:
