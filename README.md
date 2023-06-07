@@ -5,8 +5,9 @@ Hi, I'm Ben!
 - 🎨 I'm a graphics design student from austria
 - 💡 I'm mainly interested in typography and frontend-development
 - 🧠 I'm currently trying to learn PHP and JavaScript
-- ✍ I'm also trying to find a markup languages I like, to write documents with.
-  - ideally, I could also use it to write content for InDesign
+- ✍ As of 06/2023 I'm fully AsciiDoc-pilled and am trying to cram it into every aspect of my workflow
+  - Now, I just need a way to use it to write content for InDesign
+- My favourite VS Code extensions are [here](https://github.com/stars/DerMBen/lists/fav-vs-code-extensions)
 
 ## Repositories
 
