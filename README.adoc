@@ -1,13 +1,19 @@
 = About me
+:toc: auto
 
 Hi, I'm Ben!
 
-* 🎨 I'm a graphics design student from austria
+* 🎨 I'm a graphics design student from Austria
 * 💡 I'm mainly interested in typography and frontend-development
-* 🧠 I'm currently trying to learn PHP and JavaScript
-* ✍ As of 06/2023 I'm fully AsciiDoc-pilled and am trying to cram it into every aspect of my workflow
+* 🧠 I'm currently trying to learn JavaScript, as well as trying to keep my knowledge of typography fresh.
+* ✍ As of 2023-06, I'm fully AsciiDoc-pilled and am trying to cram it into every aspect of my workflow
 ** Now, I just need a way to use it to write content for InDesign
-* My favourite VS Code extensions are https://github.com/stars/DerMBen/lists/fav-vs-code-extensions[here]
+** Update 2024-02: I`'m writing everything I do in AsciiDoc by now (except for things where I can`'t, such as group projects).
++
+I still have not found an efficient way to get my AsciiDoc files into InDesign, I might just have to learn theming footnote:[Using https://docs.asciidoctor.org/asciidoctor/latest/html-backend/custom-stylesheet/[CSS for HTM]L output; And https://docs.asciidoctor.org/pdf-converter/latest/theme/create-theme/[YAML for PDF] output].
+* My favourite VS Code extensions are https://github.com/stars/DerMBen/lists/fav-vs-code-extensions[here].
+* https://github.com/ThePrimeagen[ThePrimeagen] has successfully convinced me that Vim is amazing, but learning it is something I don't think I could take the time for currently.
+* In a similar vain, I`'m interested in trying alternative keyboard layouts -- I recently came across the German https://neo-layout.org/[Neo]-Layout, the easy access to special characters it offers seems great from both a coding, and typographical standpoint -- but that too takes time to https://neo-train.lamdera.app/[learn]/adjust to.
 
 == Repositories
 
@@ -16,4 +22,22 @@ Hi, I'm Ben!
 * my profile-readme
 * my boilerplates for HTML, CSS, etc.
 
+// == My Work
 
+// TODO
+
+// == Storytime
+
+// TODO
+
+// === How I Started Using AsciiDoc
+
+// TODO
+
+// === My History with Coding
+
+// TODO
+
+// === My History with Design
+
+// TODO
