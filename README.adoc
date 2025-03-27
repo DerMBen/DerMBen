@@ -13,7 +13,7 @@ Hi, I'm Ben!
 I still have not found an efficient way to get my AsciiDoc files into InDesign, I might just have to learn theming footnote:[Using https://docs.asciidoctor.org/asciidoctor/latest/html-backend/custom-stylesheet/[CSS for HTM]L output; And https://docs.asciidoctor.org/pdf-converter/latest/theme/create-theme/[YAML for PDF] output].
 * My favourite VS Code extensions are https://github.com/stars/DerMBen/lists/fav-vs-code-extensions[here].
 * https://github.com/ThePrimeagen[ThePrimeagen] has successfully convinced me that Vim is amazing, but learning it is something I don't think I could take the time for currently.
-* In a similar vain, I`'m interested in trying alternative keyboard layouts -- I recently came across the German https://neo-layout.org/[Neo]-Layout, the easy access to special characters it offers seems great from both a coding, and typographical standpoint -- but that too takes time to https://neo-train.lamdera.app/[learn]/adjust to.
+// * In a similar vain, I`'m interested in trying alternative keyboard layouts -- I recently came across the German https://neo-layout.org/[Neo]-Layout, the easy access to special characters it offers seems great from both a coding, and typographical standpoint -- but that too takes time to https://neo-train.lamdera.app/[learn]/adjust to.
 
 == Repositories
 
